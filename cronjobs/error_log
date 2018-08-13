@@ -1,0 +1,2 @@
+[03-Jul-2018 18:45:12 Asia/Kolkata] PHP Warning:  require_once(dbcon.php): failed to open stream: No such file or directory in /home/l6nzruh5e85z/public_html/sih/cronjobs/deletetemporaryapplication_CRONJOB.php on line 4
+[03-Jul-2018 18:45:12 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required 'dbcon.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/l6nzruh5e85z/public_html/sih/cronjobs/deletetemporaryapplication_CRONJOB.php on line 4

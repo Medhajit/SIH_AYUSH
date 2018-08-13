@@ -1,0 +1,250 @@
+[26-Mar-2018 13:11:04 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/l6nzruh5e85z/public_html/sih/admin_home.php:488) in /home/l6nzruh5e85z/public_html/sih/admin_home.php on line 489
+[26-Mar-2018 13:46:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/l6nzruh5e85z/public_html/sih/fillform.php on line 3296
+[26-Mar-2018 19:20:37 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/l6nzruh5e85z/public_html/sih/fillform.php on line 3271
+[26-Mar-2018 19:26:49 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/l6nzruh5e85z/public_html/sih/fillform.php on line 3250
+[26-Mar-2018 19:27:20 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/l6nzruh5e85z/public_html/sih/fillform.php on line 3254
+[26-Mar-2018 19:28:43 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/l6nzruh5e85z/public_html/sih/fillform.php on line 3272
+[26-Mar-2018 19:30:54 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/l6nzruh5e85z/public_html/sih/fillform.php on line 3276
+[26-Mar-2018 19:32:44 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/l6nzruh5e85z/public_html/sih/fillform.php on line 3239
+[26-Mar-2018 19:33:15 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/l6nzruh5e85z/public_html/sih/fillform.php on line 3221
+[26-Mar-2018 21:34:32 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[26-Mar-2018 21:34:33 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[26-Mar-2018 21:36:41 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[26-Mar-2018 17:04:51 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/l6nzruh5e85z/public_html/sih/admin_home.php:488) in /home/l6nzruh5e85z/public_html/sih/admin_home.php on line 489
+[26-Mar-2018 22:37:47 Asia/Kolkata] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/l6nzruh5e85z/public_html/sih/auditTrail.php:176) in /home/l6nzruh5e85z/public_html/sih/auditTrail.php on line 178
+[26-Mar-2018 22:38:05 Asia/Kolkata] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/l6nzruh5e85z/public_html/sih/auditTrail.php:176) in /home/l6nzruh5e85z/public_html/sih/auditTrail.php on line 178
+[26-Mar-2018 17:08:15 UTC] PHP Notice:  Undefined index: appid in /home/l6nzruh5e85z/public_html/sih/chatLoaderAJAX.php on line 2
+[26-Mar-2018 17:11:02 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/l6nzruh5e85z/public_html/sih/chat.php on line 109
+[26-Mar-2018 17:11:08 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/l6nzruh5e85z/public_html/sih/chat.php on line 109
+[26-Mar-2018 17:11:25 UTC] PHP Notice:  Undefined index: appid in /home/l6nzruh5e85z/public_html/sih/chatLoaderAJAX.php on line 2
+[26-Mar-2018 22:42:16 Asia/Kolkata] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/l6nzruh5e85z/public_html/sih/auditTrail.php:176) in /home/l6nzruh5e85z/public_html/sih/auditTrail.php on line 178
+[26-Mar-2018 17:13:52 UTC] PHP Notice:  Undefined index: appid in /home/l6nzruh5e85z/public_html/sih/makeReadAJAX.php on line 2
+[26-Mar-2018 23:28:55 Asia/Kolkata] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/l6nzruh5e85z/public_html/sih/newform.php:292) in /home/l6nzruh5e85z/public_html/sih/newform.php on line 294
+[26-Mar-2018 23:28:59 Asia/Kolkata] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/l6nzruh5e85z/public_html/sih/newform.php:292) in /home/l6nzruh5e85z/public_html/sih/newform.php on line 294
+[27-Mar-2018 11:54:30 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[28-Mar-2018 11:39:18 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[28-Mar-2018 11:39:19 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[28-Mar-2018 12:08:38 Asia/Kolkata] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/l6nzruh5e85z/public_html/sih/newform.php:292) in /home/l6nzruh5e85z/public_html/sih/newform.php on line 294
+[28-Mar-2018 12:11:17 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/l6nzruh5e85z/public_html/sih/newform.php on line 301
+[28-Mar-2018 09:00:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/l6nzruh5e85z/public_html/sih/review.php on line 477
+[28-Mar-2018 09:05:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/l6nzruh5e85z/public_html/sih/review.php on line 475
+[28-Mar-2018 09:05:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/l6nzruh5e85z/public_html/sih/review.php on line 475
+[28-Mar-2018 09:28:27 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/l6nzruh5e85z/public_html/sih/review.php on line 508
+[04-Apr-2018 14:08:48 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[04-Apr-2018 14:09:06 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[08-Apr-2018 11:43:00 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[08-Apr-2018 20:17:57 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/divya_test.php on line 284
+[08-Apr-2018 20:17:57 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/divya_test.php on line 1215
+[08-Apr-2018 20:19:50 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[09-Apr-2018 10:11:48 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[09-Apr-2018 10:11:56 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[09-Apr-2018 19:38:51 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/divya_test.php on line 284
+[09-Apr-2018 19:38:51 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/divya_test.php on line 1215
+[09-Apr-2018 19:41:56 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[09-Apr-2018 19:42:07 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[09-Apr-2018 19:56:35 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[09-Apr-2018 22:20:24 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/divya_test.php on line 284
+[09-Apr-2018 22:20:24 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/divya_test.php on line 1215
+[09-Apr-2018 23:54:16 Asia/Kolkata] PHP Warning:  Missing argument 7 for journalAdd(), called in /home/l6nzruh5e85z/public_html/sih/anisha_test.php on line 744 and defined in /home/l6nzruh5e85z/public_html/sih/anisha_test.php on line 686
+[09-Apr-2018 23:54:16 Asia/Kolkata] PHP Warning:  Missing argument 8 for journalAdd(), called in /home/l6nzruh5e85z/public_html/sih/anisha_test.php on line 744 and defined in /home/l6nzruh5e85z/public_html/sih/anisha_test.php on line 686
+[10-Apr-2018 11:40:52 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/l6nzruh5e85z/public_html/sih/fillform.php on line 3897
+[10-Apr-2018 11:41:24 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/l6nzruh5e85z/public_html/sih/fillform.php on line 3911
+[10-Apr-2018 11:44:11 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/l6nzruh5e85z/public_html/sih/fillform.php on line 3923
+[10-Apr-2018 11:46:16 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/l6nzruh5e85z/public_html/sih/fillform.php on line 2097
+[10-Apr-2018 07:39:02 UTC] PHP Fatal error:  Cannot redeclare NewspaperAdd() (previously declared in /home/l6nzruh5e85z/public_html/sih/anisha_test.php:760) in /home/l6nzruh5e85z/public_html/sih/anisha_test.php on line 894
+[10-Apr-2018 07:39:29 UTC] PHP Fatal error:  Cannot redeclare NewspaperAdd() (previously declared in /home/l6nzruh5e85z/public_html/sih/anisha_test.php:760) in /home/l6nzruh5e85z/public_html/sih/anisha_test.php on line 894
+[10-Apr-2018 07:39:31 UTC] PHP Fatal error:  Cannot redeclare NewspaperAdd() (previously declared in /home/l6nzruh5e85z/public_html/sih/anisha_test.php:760) in /home/l6nzruh5e85z/public_html/sih/anisha_test.php on line 894
+[13-Apr-2018 02:02:15 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, resource given in /home/l6nzruh5e85z/public_html/sih/divya_test.php on line 750
+[13-Apr-2018 02:02:59 Asia/Kolkata] PHP Warning:  Missing argument 6 for SalaryAdd(), called in /home/l6nzruh5e85z/public_html/sih/divya_test.php on line 752 and defined in /home/l6nzruh5e85z/public_html/sih/divya_test.php on line 701
+[13-Apr-2018 02:02:59 Asia/Kolkata] PHP Warning:  Missing argument 6 for SalaryAdd(), called in /home/l6nzruh5e85z/public_html/sih/divya_test.php on line 752 and defined in /home/l6nzruh5e85z/public_html/sih/divya_test.php on line 701
+[15-Apr-2018 14:15:39 Asia/Kolkata] PHP Fatal error:  Call to undefined function NonRecOtherAddOther() in /home/l6nzruh5e85z/public_html/sih/review.php on line 1432
+[17-Apr-2018 23:44:52 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[18-Apr-2018 16:11:39 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[20-Apr-2018 15:58:00 Asia/Kolkata] PHP Notice:  Undefined variable: match in /home/l6nzruh5e85z/public_html/sih/ChangePassword.php on line 277
+[20-Apr-2018 15:58:32 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[20-Apr-2018 16:00:01 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[20-Apr-2018 16:02:27 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[21-Apr-2018 10:45:15 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[25-Apr-2018 16:32:47 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[25-Apr-2018 16:53:48 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[25-Apr-2018 16:54:42 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[26-Apr-2018 16:59:12 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[10-May-2018 08:47:37 UTC] PHP Notice:  Undefined index: appid in /home/l6nzruh5e85z/public_html/sih/chatLoaderAJAX.php on line 2
+[12-May-2018 03:23:44 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[27-May-2018 01:24:04 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[29-May-2018 16:18:05 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[29-May-2018 16:28:42 Asia/Kolkata] PHP Notice:  Undefined variable: match in /home/l6nzruh5e85z/public_html/sih/ChangePassword.php on line 277
+[29-May-2018 16:28:56 Asia/Kolkata] PHP Notice:  Undefined variable: match in /home/l6nzruh5e85z/public_html/sih/ChangePassword.php on line 277
+[29-May-2018 16:29:51 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[04-Jun-2018 11:20:41 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[05-Jun-2018 11:10:49 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[05-Jun-2018 11:10:51 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[05-Jun-2018 11:12:00 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[05-Jun-2018 11:12:07 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[05-Jun-2018 11:12:11 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[06-Jun-2018 15:35:06 Asia/Kolkata] PHP Warning:  mysqli_multi_query() expects parameter 1 to be mysqli, resource given in /home/l6nzruh5e85z/public_html/sih/success_submit.php on line 128
+[06-Jun-2018 21:02:11 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/l6nzruh5e85z/public_html/sih/fillform.php on line 3925
+[06-Jun-2018 16:57:57 UTC] PHP Notice:  Undefined index: appid in /home/l6nzruh5e85z/public_html/sih/viewform.php on line 8
+[09-Jun-2018 05:34:34 UTC] PHP Notice:  Undefined index: appid in /home/l6nzruh5e85z/public_html/sih/viewform.php on line 64
+[09-Jun-2018 06:56:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/l6nzruh5e85z/public_html/sih/print_new.php on line 294
+[09-Jun-2018 07:08:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/l6nzruh5e85z/public_html/sih/print_new.php on line 297
+[09-Jun-2018 07:35:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/l6nzruh5e85z/public_html/sih/print_new.php on line 239
+[09-Jun-2018 08:01:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/l6nzruh5e85z/public_html/sih/print_new.php on line 230
+[09-Jun-2018 13:50:17 Asia/Kolkata] PHP Notice:  Undefined index: appid in /home/l6nzruh5e85z/public_html/sih/print.php on line 119
+[09-Jun-2018 09:17:30 UTC] PHP Notice:  Undefined index: appid in /home/l6nzruh5e85z/public_html/sih/viewform.php on line 64
+[09-Jun-2018 09:21:26 UTC] PHP Notice:  Undefined variable: ub in /home/l6nzruh5e85z/public_html/sih/admin_home.php on line 85
+[09-Jun-2018 09:21:26 UTC] PHP Notice:  Undefined variable: ub in /home/l6nzruh5e85z/public_html/sih/admin_home.php on line 97
+[09-Jun-2018 09:21:26 UTC] PHP Notice:  Use of undefined constant flase - assumed 'flase' in /home/l6nzruh5e85z/public_html/sih/admin_home.php on line 28
+[09-Jun-2018 09:24:05 UTC] PHP Notice:  Undefined variable: ub in /home/l6nzruh5e85z/public_html/sih/admin_home.php on line 85
+[09-Jun-2018 09:24:05 UTC] PHP Notice:  Undefined variable: ub in /home/l6nzruh5e85z/public_html/sih/admin_home.php on line 97
+[09-Jun-2018 09:24:05 UTC] PHP Notice:  Use of undefined constant flase - assumed 'flase' in /home/l6nzruh5e85z/public_html/sih/admin_home.php on line 28
+[09-Jun-2018 09:25:51 UTC] PHP Warning:  get_browser(): browscap ini directive not set in /home/l6nzruh5e85z/public_html/sih/admin_home.php on line 36
+[09-Jun-2018 09:26:58 UTC] PHP Warning:  get_browser(): browscap ini directive not set in /home/l6nzruh5e85z/public_html/sih/admin_home.php on line 36
+[09-Jun-2018 10:18:04 UTC] PHP Notice:  Undefined index: appid in /home/l6nzruh5e85z/public_html/sih/viewform.php on line 64
+[09-Jun-2018 10:41:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/l6nzruh5e85z/public_html/sih/admin_home.php:543) in /home/l6nzruh5e85z/public_html/sih/admin_home.php on line 547
+[09-Jun-2018 16:18:59 Asia/Kolkata] PHP Notice:  Undefined variable: match in /home/l6nzruh5e85z/public_html/sih/ChangePassword.php on line 276
+[09-Jun-2018 16:19:19 Asia/Kolkata] PHP Notice:  Undefined variable: match in /home/l6nzruh5e85z/public_html/sih/ChangePassword.php on line 276
+[09-Jun-2018 19:38:31 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/l6nzruh5e85z/public_html/sih/applynew.php:215) in /home/l6nzruh5e85z/public_html/sih/applynew.php on line 253
+[09-Jun-2018 19:38:33 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/l6nzruh5e85z/public_html/sih/applynew.php:215) in /home/l6nzruh5e85z/public_html/sih/applynew.php on line 253
+[09-Jun-2018 14:32:24 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/l6nzruh5e85z/public_html/sih/chat.php on line 114
+[09-Jun-2018 14:32:41 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/l6nzruh5e85z/public_html/sih/chat.php on line 114
+[09-Jun-2018 14:32:45 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/l6nzruh5e85z/public_html/sih/chat.php on line 114
+[10-Jun-2018 07:12:39 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/l6nzruh5e85z/public_html/sih/newform.php:299) in /home/l6nzruh5e85z/public_html/sih/newform.php on line 310
+[10-Jun-2018 14:21:28 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: No font has been set' in /home/l6nzruh5e85z/public_html/sih/library/fpdf.php:271
+Stack trace:
+#0 /home/l6nzruh5e85z/public_html/sih/library/fpdf.php(775): FPDF->Error('No font has bee...')
+#1 /home/l6nzruh5e85z/public_html/sih/library/html2pdf.php(77): FPDF->Write(5, '\r  \r         \r ...')
+#2 /home/l6nzruh5e85z/public_html/sih/viewform_plugin.php(1465): PDF_HTML->WriteHTML('\r\n <div class="...')
+#3 /home/l6nzruh5e85z/public_html/sih/viewform.php(92): require_once('/home/l6nzruh5e...')
+#4 {main}
+  thrown in /home/l6nzruh5e85z/public_html/sih/library/fpdf.php on line 271
+[10-Jun-2018 14:36:37 UTC] PHP Fatal error:  Class 'PDF_HTML' not found in /home/l6nzruh5e85z/public_html/sih/viewform_plugin.php on line 48
+[10-Jun-2018 14:37:56 UTC] PHP Notice:  Undefined index: appid in /home/l6nzruh5e85z/public_html/sih/viewform.php on line 63
+[11-Jun-2018 11:08:47 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/l6nzruh5e85z/public_html/sih/chat.php on line 114
+[11-Jun-2018 11:13:57 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/l6nzruh5e85z/public_html/sih/chat.php on line 114
+[11-Jun-2018 11:51:40 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/l6nzruh5e85z/public_html/sih/chat.php on line 115
+[11-Jun-2018 11:52:02 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/l6nzruh5e85z/public_html/sih/chat.php on line 115
+[11-Jun-2018 17:28:37 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/l6nzruh5e85z/public_html/sih/fillform.php:1146) in /home/l6nzruh5e85z/public_html/sih/fillform.php on line 1979
+[11-Jun-2018 17:46:45 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/l6nzruh5e85z/public_html/sih/newform.php:303) in /home/l6nzruh5e85z/public_html/sih/newform.php on line 314
+[11-Jun-2018 21:38:18 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/l6nzruh5e85z/public_html/sih/fillform.php on line 4168
+[12-Jun-2018 06:56:01 UTC] PHP Notice:  Undefined index: appid in /home/l6nzruh5e85z/public_html/sih/chatLoaderAJAX.php on line 2
+[12-Jun-2018 15:34:47 Asia/Kolkata] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/l6nzruh5e85z/public_html/sih/projectpanel.php on line 283
+[12-Jun-2018 15:34:47 Asia/Kolkata] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/l6nzruh5e85z/public_html/sih/projectpanel.php on line 291
+[12-Jun-2018 15:35:24 Asia/Kolkata] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/l6nzruh5e85z/public_html/sih/projectpanel.php on line 283
+[12-Jun-2018 15:35:24 Asia/Kolkata] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/l6nzruh5e85z/public_html/sih/projectpanel.php on line 291
+[13-Jun-2018 12:12:02 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[13-Jun-2018 12:12:03 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[13-Jun-2018 13:55:46 Asia/Kolkata] PHP Fatal error:  Call to undefined function upload_success() in /home/l6nzruh5e85z/public_html/sih/divya_test.php on line 179
+[13-Jun-2018 13:56:52 Asia/Kolkata] PHP Fatal error:  Call to undefined function upload_sucess() in /home/l6nzruh5e85z/public_html/sih/divya_test.php on line 179
+[13-Jun-2018 13:59:20 Asia/Kolkata] PHP Fatal error:  Call to undefined function upload_sucess() in /home/l6nzruh5e85z/public_html/sih/divya_test.php on line 179
+[13-Jun-2018 14:00:09 Asia/Kolkata] PHP Fatal error:  Call to undefined function upload_sucess() in /home/l6nzruh5e85z/public_html/sih/divya_test.php on line 179
+[13-Jun-2018 15:14:22 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/l6nzruh5e85z/public_html/sih/applicant_home.php on line 8
+[13-Jun-2018 15:14:58 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/l6nzruh5e85z/public_html/sih/applicant_home.php on line 8
+[13-Jun-2018 09:51:50 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/l6nzruh5e85z/public_html/sih/applicant_home.php on line 237
+[13-Jun-2018 16:19:27 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/l6nzruh5e85z/public_html/sih/applicant_home.php on line 8
+[13-Jun-2018 17:42:29 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/l6nzruh5e85z/public_html/sih/applicant_home.php on line 8
+[13-Jun-2018 12:22:38 UTC] PHP Warning:  mysql_fetch_array() expects at least 1 parameter, 0 given in /home/l6nzruh5e85z/public_html/sih/scheduledreportfillup.php on line 61
+[13-Jun-2018 12:22:50 UTC] PHP Notice:  Undefined index: appid in /home/l6nzruh5e85z/public_html/sih/chatLoaderAJAX.php on line 2
+[13-Jun-2018 17:57:17 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/l6nzruh5e85z/public_html/sih/applicant_home.php on line 8
+[13-Jun-2018 19:37:24 Asia/Kolkata] PHP Notice:  Undefined variable: match in /home/l6nzruh5e85z/public_html/sih/ChangePassword.php on line 276
+[13-Jun-2018 19:37:39 Asia/Kolkata] PHP Notice:  Undefined variable: match in /home/l6nzruh5e85z/public_html/sih/ChangePassword.php on line 276
+[13-Jun-2018 19:51:07 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/l6nzruh5e85z/public_html/sih/applicant_home.php on line 8
+[13-Jun-2018 20:41:23 Asia/Kolkata] PHP Fatal error:  Call to undefined function randomPassword() in /home/l6nzruh5e85z/public_html/sih/viewscheduledreport.php on line 68
+[13-Jun-2018 21:03:48 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/l6nzruh5e85z/public_html/sih/applicant_home.php on line 8
+[13-Jun-2018 22:28:32 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/l6nzruh5e85z/public_html/sih/applicant_home.php on line 8
+[14-Jun-2018 01:56:47 Asia/Kolkata] PHP Notice:  Undefined variable: match in /home/l6nzruh5e85z/public_html/sih/ChangePassword.php on line 276
+[14-Jun-2018 02:14:10 Asia/Kolkata] PHP Notice:  Undefined variable: match in /home/l6nzruh5e85z/public_html/sih/ChangePassword.php on line 276
+[14-Jun-2018 02:19:40 Asia/Kolkata] PHP Notice:  Undefined variable: match in /home/l6nzruh5e85z/public_html/sih/ChangePassword.php on line 276
+[14-Jun-2018 12:18:53 Asia/Kolkata] PHP Warning:  preg_replace(): Delimiter must not be alphanumeric or backslash in /home/l6nzruh5e85z/public_html/sih/projectpanel.php on line 316
+[14-Jun-2018 12:37:07 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/l6nzruh5e85z/public_html/sih/applicant_home.php on line 8
+[14-Jun-2018 14:10:40 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/l6nzruh5e85z/public_html/sih/applicant_home.php on line 8
+[14-Jun-2018 16:02:51 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/l6nzruh5e85z/public_html/sih/applicant_home.php on line 8
+[14-Jun-2018 17:28:29 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/l6nzruh5e85z/public_html/sih/applicant_home.php on line 8
+[14-Jun-2018 18:29:12 Asia/Kolkata] PHP Notice:  Undefined variable: match in /home/l6nzruh5e85z/public_html/sih/ChangePassword.php on line 276
+[14-Jun-2018 19:59:02 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/l6nzruh5e85z/public_html/sih/applicant_home.php on line 8
+[14-Jun-2018 21:47:00 Asia/Kolkata] PHP Notice:  Undefined variable: match in /home/l6nzruh5e85z/public_html/sih/ChangePassword.php on line 276
+[14-Jun-2018 16:32:56 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/l6nzruh5e85z/public_html/sih/chat.php on line 115
+[14-Jun-2018 22:06:13 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/l6nzruh5e85z/public_html/sih/applicant_home.php on line 8
+[14-Jun-2018 16:52:13 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/l6nzruh5e85z/public_html/sih/chat.php on line 115
+[15-Jun-2018 01:10:32 Asia/Kolkata] PHP Notice:  Undefined variable: match in /home/l6nzruh5e85z/public_html/sih/forgetid.php on line 275
+[15-Jun-2018 01:27:48 Asia/Kolkata] PHP Notice:  Undefined variable: match in /home/l6nzruh5e85z/public_html/sih/ChangePassword.php on line 276
+[15-Jun-2018 09:46:08 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/l6nzruh5e85z/public_html/sih/projectpanel.php on line 8
+[15-Jun-2018 04:50:54 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/l6nzruh5e85z/public_html/sih/chat.php on line 115
+[15-Jun-2018 04:51:03 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/l6nzruh5e85z/public_html/sih/chat.php on line 115
+[15-Jun-2018 04:51:09 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/l6nzruh5e85z/public_html/sih/chat.php on line 115
+[15-Jun-2018 04:51:34 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/l6nzruh5e85z/public_html/sih/chat.php on line 115
+[15-Jun-2018 04:51:39 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/l6nzruh5e85z/public_html/sih/chat.php on line 115
+[15-Jun-2018 12:02:34 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/l6nzruh5e85z/public_html/sih/projectpanel.php on line 8
+[15-Jun-2018 14:24:34 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/l6nzruh5e85z/public_html/sih/projectpanel.php on line 8
+[15-Jun-2018 14:26:01 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/l6nzruh5e85z/public_html/sih/applicant_home.php on line 8
+[15-Jun-2018 15:41:12 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/l6nzruh5e85z/public_html/sih/applicant_home.php on line 8
+[15-Jun-2018 15:41:35 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/l6nzruh5e85z/public_html/sih/applicant_home.php on line 8
+[15-Jun-2018 11:42:08 UTC] PHP Notice:  Undefined index: fileToUpload in /home/l6nzruh5e85z/public_html/sih/ankit_test.php on line 19
+[15-Jun-2018 11:42:54 UTC] PHP Notice:  Undefined index: fileToUpload in /home/l6nzruh5e85z/public_html/sih/ankit_test.php on line 19
+[15-Jun-2018 11:43:06 UTC] PHP Notice:  Undefined index: fileToUpload in /home/l6nzruh5e85z/public_html/sih/ankit_test.php on line 19
+[15-Jun-2018 20:48:33 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/l6nzruh5e85z/public_html/sih/projectpanel.php on line 8
+[15-Jun-2018 21:16:18 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/l6nzruh5e85z/public_html/sih/applicant_home.php on line 8
+[16-Jun-2018 09:19:13 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[16-Jun-2018 19:31:35 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/l6nzruh5e85z/public_html/sih/applicant_home.php on line 8
+[16-Jun-2018 20:01:45 Asia/Kolkata] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/l6nzruh5e85z/public_html/sih/forgetid.php on line 163
+[17-Jun-2018 18:08:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/l6nzruh5e85z/public_html/sih/fillform.php on line 2729
+[18-Jun-2018 14:33:31 Asia/Kolkata] PHP Notice:  Undefined variable: usertype in /home/l6nzruh5e85z/public_html/sih/OtherApplication.php on line 77
+[18-Jun-2018 09:06:55 UTC] PHP Parse error:  syntax error, unexpected '');"/><div id="Rejnotmatch"></' (T_ENCAPSED_AND_WHITESPACE) in /home/l6nzruh5e85z/public_html/sih/OtherApplication.php on line 353
+[18-Jun-2018 19:16:25 Asia/Kolkata] PHP Notice:  Undefined variable: usertype in /home/l6nzruh5e85z/public_html/sih/OtherApplication.php on line 77
+[18-Jun-2018 20:13:26 Asia/Kolkata] PHP Notice:  Undefined variable: usertype in /home/l6nzruh5e85z/public_html/sih/OtherApplication.php on line 77
+[19-Jun-2018 15:35:08 Asia/Kolkata] PHP Warning:  unlink(notice/Notice_OPEN_APPLICATION.pdf): No such file or directory in /home/l6nzruh5e85z/public_html/sih/managenoticeAJAX.php on line 20
+[19-Jun-2018 15:37:02 Asia/Kolkata] PHP Warning:  unlink(notice/CNN Cover.pdf): No such file or directory in /home/l6nzruh5e85z/public_html/sih/managenoticeAJAX.php on line 20
+[19-Jun-2018 16:18:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/l6nzruh5e85z/public_html/sih/forgetpassword.php on line 165
+[19-Jun-2018 21:55:46 Asia/Kolkata] PHP Notice:  Undefined variable: usertype in /home/l6nzruh5e85z/public_html/sih/OtherApplication.php on line 77
+[20-Jun-2018 23:04:28 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[21-Jun-2018 16:27:09 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/l6nzruh5e85z/public_html/sih/applicant_home.php on line 8
+[21-Jun-2018 16:28:43 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/l6nzruh5e85z/public_html/sih/applicant_home.php on line 8
+[21-Jun-2018 11:04:49 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/l6nzruh5e85z/public_html/sih/chat.php on line 115
+[21-Jun-2018 11:09:30 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/l6nzruh5e85z/public_html/sih/chat.php on line 115
+[21-Jun-2018 11:14:46 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/l6nzruh5e85z/public_html/sih/chat.php on line 115
+[27-Jun-2018 08:59:47 UTC] PHP Warning:  Unterminated comment starting line 331 in /home/l6nzruh5e85z/public_html/sih/mail_test.php on line 331
+[27-Jun-2018 08:59:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/l6nzruh5e85z/public_html/sih/mail_test.php on line 334
+[27-Jun-2018 09:19:18 UTC] PHP Warning:  Unterminated comment starting line 331 in /home/l6nzruh5e85z/public_html/sih/mail_test.php on line 331
+[27-Jun-2018 09:19:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/l6nzruh5e85z/public_html/sih/mail_test.php on line 334
+[27-Jun-2018 22:37:11 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[27-Jun-2018 22:37:12 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[27-Jun-2018 22:37:13 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/apply.php on line 1171
+[28-Jun-2018 14:28:02 Asia/Kolkata] PHP Warning:  file_get_contents(http://www.google.com/recaptcha/api/siteverify?secret=6LeEZU8UAAAAAL1kM4pslvAax6K-1DtIeQb3oUDY&amp;response=03ACgFB9sYCX9xFhECenIDtrAJdr_Auo69Ngo_3wc79Cd_nrsALlyiwd0A0JUeQHKljGm9zxtVUf-Zc82_rrQMsRJ_6Ojt3jWbhsJsT5UhEfPzC28WylFatshAkmvVxnIR9sxD1GyN46P_vDKEwq-h2h6HE22Rm1-T95TfecRGtHqyqnruIR7q2dFWqdiLASTP3WWO0DhyVxrMH65cTz9HnjvCo81xsmHXJs2sopDUpKqYOTWhsbUH0nGLcTtfIfaPgySilYM8g6xYcrxSayYQG5Qqg4rvG-dXYO0yGKfnnG9VYWZ9pDx9j1GtwvUb6POrozDwy3Fc2dZaY1_xU_RTeOZyh-bIu3_DVPS3VkNpV9FuruwcyAIC2j6VvGeg8MI6lXpOs96ZAuHllMK-wW8N1HUVdDnRNQynfwut1fEknKssOJxvzd-bNCeV41eko9CfwXycOhajj-e5&amp;remoteip?27.63.151.148): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/l6nzruh5e85z/public_html/sih/newform.php on line 741
+[28-Jun-2018 14:30:07 Asia/Kolkata] PHP Warning:  file_get_contents(http://www.google.com/recaptcha/api/siteverify?secret=6LeEZU8UAAAAAL1kM4pslvAax6K-1DtIeQb3oUDY&amp;response=03ACgFB9saNJBHAodVtjrt1E5XUNmSgQuR7ob5RLYP1WIS1OoWKZEAN8Pme0URyFEguSgrwZtKvwcKdJkJ3vA7fc0jV1Hmb1WhPcOx4FQVhg_kFF2wuynigOZSkOqtJ7zukoH6WkCfdUl5-6hvs26cb1JLuq0oCdqBbbryqPkUfWxcZmESv1jLYlh-Ouew2foUcxpZiEIcw-X95iWbKiueJhMUgGGoi6hJSNe76jnZt_x4oiXC_gYb8nASOAXb6EeA4XuYRwwe52_Ds8raFSgj4s1SdATauJBUsk0OGZI589OMbcamjC564-eIkiSyM9RIg1jMLGAtlXEQRvrJ_Uqrv3zQwJe275ZMonkoFZByYzXPjeL38ZENzURaijofUF0YXthM5mVlh6kHWxDmdfd76aOsCSDXpKcerHiu-Ck-Mz2FzU5i-4k13rrrOg8DgzXJJ8XyH-EEUHDH&amp;remoteip?27.63.151.148): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/l6nzruh5e85z/public_html/sih/newform.php on line 741
+[29-Jun-2018 05:06:42 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/l6nzruh5e85z/public_html/sih/chat.php on line 116
+[29-Jun-2018 10:37:18 Asia/Kolkata] PHP Notice:  Undefined variable: sucess in /home/l6nzruh5e85z/public_html/sih/applyi.php on line 1170
+[29-Jun-2018 05:21:44 UTC] PHP Notice:  Undefined index: appid in /home/l6nzruh5e85z/public_html/sih/makeReadAJAX.php on line 2
+[29-Jun-2018 05:27:59 UTC] PHP Parse error:  syntax error, unexpected 'library' (T_STRING), expecting ']' in /home/l6nzruh5e85z/public_html/sih/pp.php on line 687
+[29-Jun-2018 05:28:15 UTC] PHP Parse error:  syntax error, unexpected 'library' (T_STRING), expecting ']' in /home/l6nzruh5e85z/public_html/sih/pp.php on line 687
+[29-Jun-2018 11:08:15 Asia/Kolkata] PHP Notice:  Undefined variable: appid in /home/l6nzruh5e85z/public_html/sih/x.php on line 156
+[30-Jun-2018 21:10:20 Asia/Kolkata] PHP Warning:  nl2br() expects parameter 1 to be string, array given in /home/l6nzruh5e85z/public_html/sih/fillform.php on line 2227
+[30-Jun-2018 23:49:24 Asia/Kolkata] PHP Notice:  Undefined variable: usertype in /home/l6nzruh5e85z/public_html/sih/OtherApplication.php on line 78
+[02-Jul-2018 22:26:08 Asia/Kolkata] PHP Warning:  mktime() expects parameter 4 to be long, string given in /home/l6nzruh5e85z/public_html/sih/automaticreportrequest_CRONJOB.php on line 25
+[02-Jul-2018 22:26:08 Asia/Kolkata] PHP Warning:  mktime() expects parameter 4 to be long, string given in /home/l6nzruh5e85z/public_html/sih/automaticreportrequest_CRONJOB.php on line 25
+[02-Jul-2018 22:26:08 Asia/Kolkata] PHP Warning:  mktime() expects parameter 4 to be long, string given in /home/l6nzruh5e85z/public_html/sih/automaticreportrequest_CRONJOB.php on line 25
+[02-Jul-2018 22:26:09 Asia/Kolkata] PHP Warning:  mktime() expects parameter 4 to be long, string given in /home/l6nzruh5e85z/public_html/sih/automaticreportrequest_CRONJOB.php on line 25
+[02-Jul-2018 22:26:09 Asia/Kolkata] PHP Warning:  mktime() expects parameter 4 to be long, string given in /home/l6nzruh5e85z/public_html/sih/automaticreportrequest_CRONJOB.php on line 25
+[02-Jul-2018 22:26:09 Asia/Kolkata] PHP Warning:  mktime() expects parameter 4 to be long, string given in /home/l6nzruh5e85z/public_html/sih/automaticreportrequest_CRONJOB.php on line 25
+[02-Jul-2018 22:27:07 Asia/Kolkata] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/l6nzruh5e85z/public_html/sih/automaticreportrequest_CRONJOB.php on line 25
+[02-Jul-2018 22:27:07 Asia/Kolkata] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/l6nzruh5e85z/public_html/sih/automaticreportrequest_CRONJOB.php on line 25
+[02-Jul-2018 22:27:07 Asia/Kolkata] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/l6nzruh5e85z/public_html/sih/automaticreportrequest_CRONJOB.php on line 25
+[02-Jul-2018 22:27:53 Asia/Kolkata] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/l6nzruh5e85z/public_html/sih/automaticreportrequest_CRONJOB.php on line 26
+[02-Jul-2018 22:27:53 Asia/Kolkata] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/l6nzruh5e85z/public_html/sih/automaticreportrequest_CRONJOB.php on line 26
+[02-Jul-2018 22:27:53 Asia/Kolkata] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/l6nzruh5e85z/public_html/sih/automaticreportrequest_CRONJOB.php on line 26
+[02-Jul-2018 22:28:30 Asia/Kolkata] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/l6nzruh5e85z/public_html/sih/automaticreportrequest_CRONJOB.php on line 27
+[02-Jul-2018 22:28:30 Asia/Kolkata] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/l6nzruh5e85z/public_html/sih/automaticreportrequest_CRONJOB.php on line 27
+[02-Jul-2018 22:28:30 Asia/Kolkata] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/l6nzruh5e85z/public_html/sih/automaticreportrequest_CRONJOB.php on line 27
+[02-Jul-2018 22:28:32 Asia/Kolkata] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/l6nzruh5e85z/public_html/sih/automaticreportrequest_CRONJOB.php on line 27
+[02-Jul-2018 22:28:32 Asia/Kolkata] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/l6nzruh5e85z/public_html/sih/automaticreportrequest_CRONJOB.php on line 27
+[02-Jul-2018 22:28:32 Asia/Kolkata] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/l6nzruh5e85z/public_html/sih/automaticreportrequest_CRONJOB.php on line 27
+[02-Jul-2018 22:28:54 Asia/Kolkata] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/l6nzruh5e85z/public_html/sih/automaticreportrequest_CRONJOB.php on line 28
+[02-Jul-2018 22:28:54 Asia/Kolkata] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/l6nzruh5e85z/public_html/sih/automaticreportrequest_CRONJOB.php on line 28
+[02-Jul-2018 22:28:54 Asia/Kolkata] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/l6nzruh5e85z/public_html/sih/automaticreportrequest_CRONJOB.php on line 28
+[02-Jul-2018 22:51:48 Asia/Kolkata] PHP Warning:  file_get_contents(http://www.google.com/recaptcha/api/siteverify?secret=6LeEZU8UAAAAAL1kM4pslvAax6K-1DtIeQb3oUDY&amp;response=03ACgFB9tQjHG-cfOV2kqgDRZFOWxBuNVg6f2yS_17En_CYHYIsYx5wEJXuvVKm9-AP6_k_5HAD6fTFqSZ_KVqYi3uxz48mm2YFIH7GkJwn_r3XTCbjgdU5V-bO6O2olNIzX9b2GG7RqG9NkiJeNtaaW_oabeCd2DFFqIH8kQ-3R-chXT8jmMeJzcl05uqshc0MU_wPCrTWyPjsKpv8iGkAXmaupslEpkK5sP7V_RfOdeqdl12CKA3DYm6Nj_xAIfUpKStLoUo3bK_YRNJql44eXErs-GcKCZewR7AQKml34qtgh2jkZMwBF47ueyq7Lzi8drABly0mopp30v2FpFTI8hZ8aZtqUPM-vIE9N1CAmYFdwhBJBwF5v0eX4omAdx27udCzEFy0FEcvprGTd_CEzTEdaQapNIwYJ0g7uTRleEn-iB-PqQI8_haPHCSLY-PySqR486UnKQAVDeC1hAUYyWCmoAmSCBclw&amp;remoteip?117.194.69.252): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/l6nzruh5e85z/public_html/sih/forgetid.php on line 143
+[24-Jul-2018 05:40:22 UTC] PHP Fatal error:  Cannot redeclare radiovaluefinder() (previously declared in /home/l6nzruh5e85z/public_html/sih/fillform.php:1405) in /home/l6nzruh5e85z/public_html/sih/fillform.php on line 6406
+[24-Jul-2018 05:40:25 UTC] PHP Fatal error:  Cannot redeclare radiovaluefinder() (previously declared in /home/l6nzruh5e85z/public_html/sih/fillform.php:1405) in /home/l6nzruh5e85z/public_html/sih/fillform.php on line 6406
+[24-Jul-2018 05:42:12 UTC] PHP Fatal error:  Cannot redeclare radiovaluefinder() (previously declared in /home/l6nzruh5e85z/public_html/sih/fillform.php:1405) in /home/l6nzruh5e85z/public_html/sih/fillform.php on line 6406
+[30-Jul-2018 10:50:12 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/l6nzruh5e85z/public_html/sih/chat.php on line 116

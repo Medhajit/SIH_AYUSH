@@ -1,0 +1,65 @@
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body {
+  margin: 0em;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #DEEBF7;
+  min-width:1000px; /* suppose you want minimun width of 1000px */
+  width: auto !important; 
+  width: 100px;
+}
+
+.menuul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+}
+
+.menuli {
+    float: left;
+    background-color: #052669;
+    border-right: solid 1px;
+    border-right-color: whitesmoke;
+    
+    
+}
+
+.menuli a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: Montserrat;
+ 
+
+    
+}
+
+a:hover:not(.active) {
+    background-color: white;
+    color: #052669;
+    
+}
+
+.liactive {
+background-color:white;
+
+}
+.liactive a {
+    color: #052669;
+    font-family: Montserrat;
+    
+}
+#share-buttons img {
+width: 35px;
+padding: 5px;
+border: 0;
+box-shadow: 0;
+display: inline;
+}
+
